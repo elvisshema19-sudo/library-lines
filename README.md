@@ -69,7 +69,6 @@ library-management-system/
 ├── seed_data.py         # Populate sample data
 │
 ├── modules/
-│   ├── __init__.py
 │   ├── book.py          # Book class
 │   ├── member.py        # Member class
 │   ├── transaction.py   # Transaction class
